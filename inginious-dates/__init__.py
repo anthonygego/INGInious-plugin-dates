@@ -1,5 +1,5 @@
 import re
-from inginious.frontend.webapp.accessible_time import AccessibleTime
+from inginious.frontend.accessible_time import AccessibleTime
 
 
 def task_accessibility(course, task, default):
